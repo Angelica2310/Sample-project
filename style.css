@@ -1,0 +1,17 @@
+.image-container {
+  position: relative;
+  margin: 0 auto;
+  width: 300px;
+}
+
+img {
+  display: block;
+  width: 100%;
+}
+
+h2 {
+  color: red;
+  position: absolute;
+  top: 50px;
+  left: 50px;
+}
